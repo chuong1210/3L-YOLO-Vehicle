@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 from pathlib import Path
 
-SRC = r"c:\Users\chuon\Downloads\Optimize\vid6_mp4-92_jpg.rf.964c3ff9555626d1e10031e549c75f36.jpg"
+SRC = r"c:\Users\chuon\Downloads\Optimize\ket_xe_phao_hoa_1_zing.jpg"
 OUT = Path(r"c:\Users\chuon\Downloads\Optimize\lowlight_steps")
 OUT.mkdir(exist_ok=True)
 
